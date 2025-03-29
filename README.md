@@ -6,12 +6,11 @@ The **Bitzy Ecosystem** is a collection of smart contracts designed for decentra
 ### 1. Bitzy-Memeland
 The memeland includes 2 main core:
 - **BitzyTokenGeneratorUpgradable**: For create and trade meme tokens with automated liquidity provision.
-- **BitzyFeeCollector**: Manages LP (liquidity pool) tokens from migrated meme tokens and stores V3 swap fees.
+- **BitzyFeeCollector**: Manages LP Positions from migrated meme tokens and collecting fee from lp provide.
 
 #### Features:
-- Meme token generation.
+- Meme token generate.
 - Liquidity provision & swap pool.
-- Fee collection for LP and V3 swaps.
 
 ---
 
